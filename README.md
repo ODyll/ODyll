@@ -1,5 +1,4 @@
 ## Hi there 👋
-### 🔭 I’m currently working on a group of Neovim scripts.
 ### 🌱 I'm currently learning C++, and looking more in depth into memory representation.
 <!--
 **DylanFau/DylanFau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
